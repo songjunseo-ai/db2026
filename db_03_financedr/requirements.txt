@@ -1,0 +1,7 @@
+flet
+duckdb
+pandas
+finance-datareader
+flet-datatable2
+kaleido
+plotly-express

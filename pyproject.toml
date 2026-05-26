@@ -1,11 +1,7 @@
 [project]
-name = "db-02-duckdb"
+name = "db2026"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = [
-    "duckdb>=1.5.2",
-    "flet>=0.85.1",
-    "pandas>=3.0.3",
-]
+dependencies = []
